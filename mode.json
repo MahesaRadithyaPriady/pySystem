@@ -1,4 +1,4 @@
 {
-  "mode": true,
+  "mode": false,
   "message": "This PC has encountered a problem and will be restarted. \n\n Please try to restart the PC. If the problem persists, please contact support.\n \nStop Code: GRAPHICS_MANAGEMENT_ERROR\n\nWhat failed: GRAPHICS_CARD"
 }
